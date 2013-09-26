@@ -1,0 +1,4 @@
+SolrConfig
+==========
+
+Solr configuration files
